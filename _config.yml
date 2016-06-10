@@ -1,8 +1,19 @@
-layout_spectrum: 0.9172933
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5225564
-  lightness: 0.5
   brandStrength: 0.5081454
+  lightness: 0.5
   brandColors:
     - '#000000'
     - '#FFFBFF'
@@ -10,5 +21,6 @@ color:
     - '#FFD6FF'
     - '#141031'
   rhythmicContrast: 0.4699871
-typography_spectrum: 0.089599
+typography_spectrum: 0.6424958
+layout_spectrum: 0.9172933
 name: 'TheLoveVoiceMovement '
