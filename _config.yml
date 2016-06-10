@@ -1,0 +1,14 @@
+layout_spectrum: 0.9172933
+color:
+  saturation: 0.5225564
+  lightness: 0.5
+  brandStrength: 0.5081454
+  brandColors:
+    - '#000000'
+    - '#FFFBFF'
+    - '#FFE6FF'
+    - '#FFD6FF'
+    - '#141031'
+  rhythmicContrast: 0.4699871
+typography_spectrum: 0.089599
+name: 'TheLoveVoiceMovement '
